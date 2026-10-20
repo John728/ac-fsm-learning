@@ -1,0 +1,8 @@
+{
+  "all_probes_have_30_distinct_neurons": true,
+  "shared_prefixes_have_identical_observed_populations": true,
+  "terminal_states_match_independent_prior_capture": true,
+  "graph_nodes_are_exact_observed_populations": true,
+  "paired_scatter_has_45_observations_and_24_exact_coincidences": true,
+  "all_nine_figure_exports_exist": true
+}

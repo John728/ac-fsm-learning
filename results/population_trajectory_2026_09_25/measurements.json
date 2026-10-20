@@ -1,0 +1,30 @@
+{
+  "seed": 41100,
+  "areas": [
+    "symbol",
+    "transition",
+    "state",
+    "word"
+  ],
+  "N": 2000,
+  "k": 30,
+  "fit": "PCA fit to eight unique post-extension prefix populations; base points transformed with same basis",
+  "explained_variance_ratio": [
+    0.17775024911959095,
+    0.15056761115761458
+  ],
+  "retained_neurons": {
+    "K": 30,
+    "K AE": 30,
+    "K AE M": 30,
+    "K AE M P": 30,
+    "K AE T": 30
+  },
+  "all_selected_pre_post_identical": true,
+  "protocol": "25 base epochs; 20 extension epochs; prefix-gated plasticity; frozen probes",
+  "sources_sha256": {
+    "results/population_robustness_2026_09_22/populations_41100.npz": "71b4105ad280bd12ad70f4b12d58a92f1debfe13a027303e971e5ac8f643c16a",
+    "results/population_robustness_2026_09_22/manifest_41100.json": "c624f7db92e64a64a9b93ceea3ee5e79f0ccded044a38ac7afcf9114d3bcb0c4",
+    "population_trajectory_figure.py": "b7ab251cb6cb444d9e83089983cbe1523429b9b0febe631a13019d27309bba8a"
+  }
+}

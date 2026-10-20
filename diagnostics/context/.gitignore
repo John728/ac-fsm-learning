@@ -1,0 +1,2 @@
+# Reproducible trajectory/weight caches; keep analysis JSON and manifests visible.
+*.npz

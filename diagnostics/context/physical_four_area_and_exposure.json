@@ -1,0 +1,46 @@
+{
+  "seed": 41100,
+  "beta_core": 0.003,
+  "areas": [
+    "symbol",
+    "transition",
+    "state",
+    "word"
+  ],
+  "epochs": {
+    "1": {
+      "distinct_sa": 28,
+      "native_accuracy": 1.0
+    },
+    "5": {
+      "distinct_sa": 28,
+      "native_accuracy": 1.0
+    },
+    "10": {
+      "distinct_sa": 28,
+      "native_accuracy": 1.0
+    },
+    "25": {
+      "distinct_sa": 28,
+      "native_accuracy": 1.0
+    },
+    "50": {
+      "distinct_sa": 26,
+      "native_accuracy": 0.8214285714285714
+    },
+    "75": {
+      "distinct_sa": 23,
+      "native_accuracy": 0.75
+    },
+    "100": {
+      "distinct_sa": 23,
+      "native_accuracy": 0.7142857142857143
+    }
+  },
+  "physical_core_matches_cached_full_model": true,
+  "extension": {
+    "base_accuracy": 0.9642857142857143,
+    "new_accuracy": 1.0,
+    "core_matches_cached_full_model": true
+  }
+}

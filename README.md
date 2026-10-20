@@ -2,6 +2,8 @@
 
 This repository contains reproducible simulations, Jupyter notebooks, and publication figures evaluating sequence representation and learning in the **Assembly Calculus (AC)** model of the brain.
 
+**2026-09-21 diagnostic update:** [Context removal and four-area experiments](CONTEXT_DIAGNOSIS.md) reports matched five-seed results, exact state collisions, a promising lower-plasticity configuration, and its longer-training limitation. It also flags provenance and interpretation issues in historical claims below; those claims should not be treated as revalidated by the new experiments.
+
 The experiments investigate three core questions:
 1. How does complete-path state survival degrade as continuous sequence length increases in binary DFAs?
 2. Does finite-state capacity depend solely on total transition count $C = |Q||\Sigma|$, or does the factorisation between internal states $|Q|$ and alphabet size $|\Sigma|$ matter?
